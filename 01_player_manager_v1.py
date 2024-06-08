@@ -18,3 +18,5 @@ with open('user_data.csv', mode='a', newline='') as file:
 
 # Print a confirmation message
 print("Data saved successfully!")
+
+print('hello chisomo')
